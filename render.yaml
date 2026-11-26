@@ -12,4 +12,4 @@ services:
       - key: PYTHON_VERSION
         value: 3.11.9
       - key: CORS_ORIGINS
-        value: "*"
+        value: "https://frontend-seven-puce-53.vercel.app,https://frontend-pd7u5zq2d-webmet.vercel.app,http://localhost:5173,*"
